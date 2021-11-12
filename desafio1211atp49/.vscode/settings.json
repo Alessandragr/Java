@@ -1,0 +1,8 @@
+{
+    "java.project.referencedLibraries": [
+        "lib/**/*.jar",
+        "c:\\Users\\alesribe\\Downloads\\Programas\\c3p0-0.9.5.4.jar",
+        "c:\\Users\\alesribe\\Downloads\\Programas\\mchange-commons-java-0.2.15.jar",
+        "c:\\Users\\alesribe\\Downloads\\Programas\\postgresql-42.3.1.jar"
+    ]
+}
